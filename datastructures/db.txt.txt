@@ -1,0 +1,49 @@
+Garfield*2004*Peter Hewitt*Bill Murray*Breckin Meyer*80.0
+Black Adam*2022*Jaume Collet-Serra*Dwayne Johnson*Aldis Hodge*124.0
+Halloween Ends*2022*David Gordon Green*Jamie Lee Curtis* Andi Matichak*111.0
+Jurassic World Dominion*2022*Colin Trevorrow*Chris Pratt*Laura Dern*147.0
+Spider-Man: No Way Home*2021*Jon Watts*Tom Holland*Zendaya*148.0
+Spider-Man: Homecoming*2017*Jon Watts*Tom Holland* Michael Keaton*133.0
+Spider-Man: Far from Home*2019*Jon Watts*Tom Holland*Samuel L. Jackson*129.0
+Jumanji: Welcome to the Jungle*2017*Jake Kasdan*Dwayne Johnson*Kevin Hart*119.0
+Moana*2016*Ron Clements*Dwayne Johnson(voice)*Rachel House(voice)*107.0
+Harry Potter and the Sorcerer's Stone*2001*Chris Columbus*Daniel Radcliffe* Rupert Grint*152.0
+Bros*2022*Nicholas Stoller*Billy Eichner*Luke Macfarlane*115.0
+Top Gun: Maverick*2022*Joseph Kosinski*Tom Cruise*Jennifer Connelly*130.0
+Teen Titans GO! To the Movies*2018*Aaron Horvath*Greg Cipes(voice)*Scott Menville(voice)*84.0
+The Shallows*2016*Jaume Collet-Serra*Blake Lively*Oscar Jaenada*86.0
+Jurassic World*2015*Colin Trevorrow*Chris Pratt*Bryce Dallas Howard*124.0
+The Lion King*1994*Roger Allers*Matthew Broderick(voice)*Jeremy Irons(voice)*88.0
+Avengers: Infinity War*2018*Anthony Russo*Robert Downey Jr.*Chris Hemsworth*149.0
+Avengers: Endgame*2019*Anthony Russo*Robert Downey Jr.*Chris Evans*181.0
+Coco*2017*Lee Unkrich*Anthony Gonzalez(voice)*Gael Garcia Bernal(voice)*105.0
+Your Name.*2016*Makoto Shinkai*Ryunosuke Kamiki(voice)*Mone Kamishiraishi(voice)*106.0
+Weathering with You*2019*Makoto Shinkai*Kotaro Daigo(voice)*Nana Mori(voice)*112.0
+Demon Slayer the Movie: Mugen Train*2020*Haruo Sotozaki*Natsuki Hanae(voice)*Akari Kito(voice)*117.0
+Sword Art Online the Movie: Ordinal Scale*2017*Tomohiko Ito*Yoshitsugu Matsuoka(voice)*Haruka Tomatsu(voice)*119.0
+Barbarian*2022*Zach Creggor*Georgina Campbell*Bill Skarsgard*102.0
+Jurassic Park*1993*Steven Spielberg*Sam Neil*Laura Dern*127.0
+ET*1982*Steven Spielberg*Henry Thomas*Drew Barrymore*115.0
+Finding Nemo*2003*Andrew Stanton*Albert Brooks(voice)*Ellen DeGeneres(voice)*100.0
+V for Vendetta*2005*James McTeigue*Hugo Weaving*Natalie Portman*132.0
+Titanic*1997*James Cameron*Leonardo DiCaprio* Kate Winslet*194.0
+The Wolf on Wall Street*2013*Martin Scorsese*Leonardo DiCaprio*Jonah Hill*180.0
+The Gold Rush*1925*Charles Chaplin*Charles Chaplin*Mark Swain*155.0
+How to Train a Dragon*2010*Dean DeBlois*Jay Baruchel(voice)*Gerard Butler(voice)*98.0
+Ford v Ferrari*2019*James Mangold*Matt Damon*Christian Bale*152.0
+Ratatouille*2007*Brad Bird*Brad Garrett(voice)*Lou Romaro(voice)*111.0
+The Wizard of Oz*1939*Victor Fleming*Judy Garland*Frank Morgan*102.0
+The Conjuring*2013*James Wan*Patrick Wilson*Vera Farmiga*112.0
+The Conjuring 2*2016*James Wan*Vera Farmiga*Patrick Wilson*134.0
+Forrest Gump*1994*Robert Zemeckis*Tom Hanks*Robin Wright*142.0
+Catch Me If You Can*2002*Steven Spielberg*Leonardo DiCaprio*Tom Hanks*141.0
+Inglourious Basterds*2009*Quentin Tarantino*Brad Pitt*Diane Kruger*153.0
+Once Upon a Time in Hollywood*2019*Quentin Tarantino*Leonardo DiCaprio*Brad Pitt*161.0
+Pulp Fiction*1994*Quentin Tarantino*Samuel L. Jackson*John Travolta*154.0
+The Shawshank Redemption*1994*Frank Darabont*Tim Robbins*Morgan Freeman*142.0
+The Truman Show*1998*Peter Weir*Jim Carrey*Ed Harris*103.0
+Daddy’s Home*2015*Sean Anders*Will Ferrell*Mark Wahlberg*96.0
+Ghost Rider*2007*Mark Steven Johnson*Nicolas Cage*Eva Mendes*123.0
+Aladdin*1992*Ron Clements*Scott Weigner(voice)*Robin Williams(voice)*90.0
+The Exorcist*1973*William Friedkin*Ellen Burstyn*Max von Sydow*122.0
+The Terminator*1984*James Cameron*Arnold Schwarzenegger*Linda Hamilton*107.0
